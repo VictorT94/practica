@@ -1,9 +1,9 @@
 # practica
 practica
 
-#Victor
+# Victor
 
-##Practica1
+## Practica1
 
 1. hp01.php
 2. hp02.php
@@ -12,4 +12,4 @@ practica
 5. hp06.php
 6. hp07.php
 
- Pues eso
+> Practica 1
